@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.python-version
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+
+venv/
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+*.npy
+*.pt
+*.safetensors
+*.index
+
+
+# VS Code
+.vscode/
+.history/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# local config
+*.local
+
+# editor backups
+*~
+*.swp
